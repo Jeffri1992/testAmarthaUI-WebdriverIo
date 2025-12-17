@@ -1,0 +1,10 @@
+allure-report/
+allure-results/
+.editorconfig
+node_modules
+.idea
+package-lock.json
+wdio-appium.log
+report/*
+screenshots/*
+rerun/*
